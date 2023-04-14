@@ -25,5 +25,6 @@ The model achieved BLEU-4=0.7 on the uitviic_captions_train2017 dataset, which d
 
 
 <img width="857" alt="image" src="https://user-images.githubusercontent.com/96003264/232093523-ea057895-793d-4772-a4a3-ac6368a63b1a.png">
+<img width="983" alt="image" src="https://user-images.githubusercontent.com/96003264/232095363-48b4158c-d016-4278-b0b3-b5e4c3a03ae7.png">
 
 <img width="928" alt="image" src="https://user-images.githubusercontent.com/96003264/232093322-4495c000-142a-47a2-a621-60f8208e9bc2.png">
